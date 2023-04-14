@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=rCatMan&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=rCatMan&show_icons=true&theme=dark&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rCatMan&theme=dark&layout=compact)
 
 - 🌱 I’m currently learning 
